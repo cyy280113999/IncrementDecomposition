@@ -2,4 +2,4 @@
 
 Layer-wise Increment Decomposition
 
-$$\frac{\Delta X}{\Delta Y}$$
+$$R_X = R_Y * \frac{\Delta X}{\Delta Y}$$
